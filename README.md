@@ -3,7 +3,7 @@
 - Blog: [ゆいブログ](https://yuino.dev/blog)
 
 
-<img width="250px" src="https://avatars.githubusercontent.com/u/241560656" />
+<img width="250px" src="https://avatars.githubusercontent.com/u/118826058" />
 
 ## 工研
 
